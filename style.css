@@ -1,0 +1,10 @@
+#cardBox {
+    width: 350px;
+    border: 1px solid lightslategray;
+    border-radius: 10px 10px 10px 10px;
+    padding-bottom: 15px;
+}
+
+.cardElement {
+    padding-left: 15px;
+}
